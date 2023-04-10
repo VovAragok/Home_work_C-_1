@@ -1,0 +1,15 @@
+K:\Git_Homework_C#\Programm_2\bin\Debug\net6.0\Programm_2.exe
+K:\Git_Homework_C#\Programm_2\bin\Debug\net6.0\Programm_2.deps.json
+K:\Git_Homework_C#\Programm_2\bin\Debug\net6.0\Programm_2.runtimeconfig.json
+K:\Git_Homework_C#\Programm_2\bin\Debug\net6.0\Programm_2.dll
+K:\Git_Homework_C#\Programm_2\bin\Debug\net6.0\Programm_2.pdb
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.csproj.AssemblyReference.cache
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.GeneratedMSBuildEditorConfig.editorconfig
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.AssemblyInfoInputs.cache
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.AssemblyInfo.cs
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.csproj.CoreCompileInputs.cache
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.dll
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\refint\Programm_2.dll
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.pdb
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\Programm_2.genruntimeconfig.cache
+K:\Git_Homework_C#\Programm_2\obj\Debug\net6.0\ref\Programm_2.dll
